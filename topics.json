@@ -1,0 +1,9 @@
+{
+  "Grade 6": ["Whole Numbers & Integers", "Fractions & Decimals", "Ratio & Proportion", "Basic Algebra Expressions", "Perimeter & Area", "Data Handling"],
+  "Grade 7": ["Integers & Rational Numbers", "Simple Equations", "Percentages & Profit/Loss", "Lines & Angles", "Triangles", "Perimeter & Area"],
+  "Grade 8": ["Linear Equations", "Exponents & Powers", "Squares, Cubes & Roots", "Algebraic Identities", "Quadrilaterals", "Mensuration"],
+  "Grade 9": ["Number Systems", "Polynomials", "Linear Equations in Two Variables", "Coordinate Geometry", "Triangles & Congruence", "Surface Area & Volume", "Statistics & Probability"],
+  "Grade 10": ["Real Numbers", "Quadratic Equations", "Arithmetic Progressions", "Similar Triangles", "Trigonometry", "Circles", "Coordinate Geometry", "Probability"],
+  "Grade 11": ["Sets & Functions", "Trigonometric Functions", "Complex Numbers", "Permutations & Combinations", "Binomial Theorem", "Sequences & Series", "Straight Lines & Conic Sections", "Limits & Derivatives"],
+  "Grade 12": ["Matrices & Determinants", "Limits & Continuity", "Differentiation (Derivatives)", "Applications of Derivatives", "Integration", "Definite Integrals & Area", "Differential Equations", "Vectors & 3D Geometry", "Probability"]
+}
